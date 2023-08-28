@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<TextureAtlas imagePath="selectyourvixty.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="select0000" x="0" y="0" width="1249" height="96" frameX="-4" frameY="0" frameWidth="1254" frameHeight="96"/>
+	<SubTexture name="select0001" x="0" y="0" width="1249" height="96" frameX="-4" frameY="0" frameWidth="1254" frameHeight="96"/>
+	<SubTexture name="select0002" x="0" y="96" width="1254" height="96"/>
+	<SubTexture name="select0003" x="0" y="96" width="1254" height="96"/>
+	<SubTexture name="select0004" x="0" y="192" width="1251" height="96" frameX="0" frameY="0" frameWidth="1254" frameHeight="96"/>
+	<SubTexture name="select0005" x="0" y="192" width="1251" height="96" frameX="0" frameY="0" frameWidth="1254" frameHeight="96"/>
+	<SubTexture name="select0006" x="0" y="288" width="1254" height="96"/>
+	<SubTexture name="select0007" x="0" y="288" width="1254" height="96"/>
+	<SubTexture name="select0008" x="0" y="384" width="1253" height="96" frameX="-1" frameY="0" frameWidth="1254" frameHeight="96"/>
+	<SubTexture name="select0009" x="0" y="384" width="1253" height="96" frameX="-1" frameY="0" frameWidth="1254" frameHeight="96"/>
+</TextureAtlas>

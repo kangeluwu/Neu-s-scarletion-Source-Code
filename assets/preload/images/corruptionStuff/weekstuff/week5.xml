@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="story5.png">
+	<!-- Created with Adobe Animate version 20.5.1.31044 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="press0000" x="0" y="0" width="398" height="115"/>
+	<SubTexture name="press0001" x="398" y="0" width="384" height="115" frameX="-7" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0002" x="0" y="115" width="368" height="115" frameX="-15" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0003" x="368" y="115" width="352" height="115" frameX="-23" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0004" x="0" y="230" width="338" height="115" frameX="-30" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0005" x="338" y="230" width="322" height="115" frameX="-38" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0006" x="660" y="230" width="306" height="115" frameX="-46" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0007" x="0" y="345" width="290" height="115" frameX="-54" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0008" x="290" y="345" width="276" height="115" frameX="-61" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0009" x="566" y="345" width="260" height="115" frameX="-69" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0010" x="0" y="460" width="244" height="115" frameX="-77" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0011" x="244" y="460" width="230" height="115" frameX="-84" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0012" x="474" y="460" width="214" height="115" frameX="-92" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0013" x="688" y="460" width="198" height="115" frameX="-100" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0014" x="364" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="182" frameHeight="115"/>
+	<SubTexture name="press0015" x="364" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="182" frameHeight="115"/>
+	<SubTexture name="press0016" x="364" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="182" frameHeight="115"/>
+	<SubTexture name="press0017" x="364" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="182" frameHeight="115"/>
+	<SubTexture name="press0018" x="0" y="575" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0019" x="182" y="575" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0020" x="364" y="575" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0021" x="546" y="575" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0022" x="728" y="575" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0023" x="0" y="690" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0024" x="182" y="690" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0025" x="364" y="690" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0026" x="546" y="690" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0027" x="728" y="690" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0028" x="0" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0029" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0030" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0031" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0032" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0033" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0034" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0035" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0036" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0037" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0038" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0039" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0040" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0041" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0042" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0043" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0044" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0045" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0046" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0047" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0048" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0049" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0050" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0051" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0052" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0053" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0054" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0055" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0056" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0057" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0058" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0059" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0060" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0061" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0062" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0063" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0064" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0065" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0066" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0067" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0068" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="press0069" x="182" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+	<SubTexture name="select0000" x="364" y="805" width="182" height="115" frameX="-108" frameY="0" frameWidth="398" frameHeight="115"/>
+</TextureAtlas>
